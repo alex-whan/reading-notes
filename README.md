@@ -9,7 +9,7 @@ This website features reading notes from throughout my Code 201 course, which wi
 
 ### Table of Contents
 
-- [Reading 1: Introductory HTML and JavaScript](https://alex-whan.github.io/reading-notes/)
+- [Reading 1: Introductory HTML and JavaScript](https://alex-whan.github.io/reading-notes/reading01-introductory-HTML-JS.html)
 - [Reading 2:](https://alex-whan.github.io/reading-notes/)
 - [Reading 3:](https://alex-whan.github.io/reading-notes/)
 - [Reading 4:](https://alex-whan.github.io/reading-notes/)
