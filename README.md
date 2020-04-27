@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+# Code 201 Reading Notes
 
-You can use the [editor on GitHub](https://github.com/alex-whan/reading-notes/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### About This Site
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hey there! My name is Alex, and I'm a student in Code Fellows' Code 102 course. A born-and-raised Washingtonian, I've long been interested in learning to code thanks to the thriving technology industry in my beautiful hometown of Seattle. Pacific Northwest is best, as they say.
 
-### Markdown
+This website features reading notes from throughout my Code 201 course, which will help to document my learning journey in the coming weeks. Please find the links to each reading and topic below.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Table of Contents
 
-# Header 1
-## Header 2
-### Header 3
+- [Reading 1: Introductory HTML and JavaScript](https://alex-whan.github.io/reading-notes/)
+- [Reading 2:](https://alex-whan.github.io/reading-notes/)
+- [Reading 3:](https://alex-whan.github.io/reading-notes/)
+- [Reading 4:](https://alex-whan.github.io/reading-notes/)
+- [Reading 5:](https://alex-whan.github.io/reading-notes/)
+- [Reading 6:](https://alex-whan.github.io/reading-notes/)
+- [Reading 7:](https://alex-whan.github.io/reading-notes/)
+- [Reading 8:](https://alex-whan.github.io/reading-notes/)
+- [Reading 9:](https://alex-whan.github.io/reading-notes/)
+- [Reading 10:](https://alex-whan.github.io/reading-notes/)
+- [Reading 11:](https://alex-whan.github.io/reading-notes/)
+- [Reading 12:](https://alex-whan.github.io/reading-notes/)
+- [Reading 13:](https://alex-whan.github.io/reading-notes/)
+- [Reading 14:](https://alex-whan.github.io/reading-notes/)
+- [Reading 15:](https://alex-whan.github.io/reading-notes/)
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/alex-whan/reading-notes/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Check out my [GitHub portfolio](https://github.com/alex-whan) or hop directly to my [Reading Notes!](https://alex-whan.github.io/reading-notes/)
