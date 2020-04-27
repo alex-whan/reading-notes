@@ -243,4 +243,89 @@ This is an **expression**, because it resolves into a *single value* of TRUE or 
 
 * When you use the `prompt` command, it evaluates *everything entered* as a **string**
 
+# Objects and Properties
+
+## Objects
+
+**Objects** are representations or models in programming of "things" in the real world, and each object can have its own *properties*, *events*, and *methods* (which work together to create this model)
+
+* These are examples of **name/value pairs**, which are very common in programming and within the structure of a webpage itself (i.e. - in HTML, attributes are like properties, which can each have different names/values)
+
+## Properties
+
+**Properties** are the characteristics of an object
+
+* Each property has its own name and value that give you information about an object's individual **instance**
+
+* In the real world, this could be like make, color, and engine size for a car
+
+* For example: Object Type: `hotel`; Properties: `name`, `rating`, `number of rooms`, `bookings`, `gym (true)`, `pool (false)` 
+
+## Events
+
+**Events** can cause a trigger of certain specific sections of code - and are examples of interactions between users and programming (equivalent to interactions with real-world objects)
+
+* For example: Clicking on a "contact" link on a page might bring up a contact form for a user to fill out
+
+* In the real world, this could apply to car; the brakes slow it down, accelerator speeds it up
+
+* **Scripts** use events to trigger different functionality, and detail events to respond to, as well as which part of the script will run when each event occurs
+
+* For example: Object: `hotel`; Event: `book` - happens when reservation is made; `cancel` - hapens when reservation is cancelled
+
+## Methods
+
+**Methods** represent things people need to do with objects, and can retrieve or update the properties of objects
+
+* Method code can contain lots of instructions to represent one task
+
+* Tell you about onbject using information in properties, *or* changes the value of object's properties
+
+* For example: Object: `hotel`, Method: `makeBooking()` - increases value of the `bookings` property; `cancelBooking()` - decreases value of the `bookings` property
+
+* We don't necessarily need to ask how a method does a task, but rather how to ask questions of it and interpret its answers
+
+## How Does It All Fit Together?
+
+* *Events* can trigger *methods*, which can then retrieve or update the *properties* of an *object*
+
+* For example: Object type: `hotel`
+1. Event: `book` - happens when a reservation is made and calls the method `makeBooking()`
+2. Method: `makeBooking()` - method increases value of `bookings` property
+3. Properties: `bookings` property increases from 21 -> 22
+
+* Web browsers are programs built using objects:
+    * `window` object: how the broswer represents each window or tab (`location` property tells us the URL)
+    * `document` object: represents the current web page loaded into each window (`title` property tells us what's inside the `<title>` tags, while `lastModified` would tell us when the page was updated
+    * For example: 
+        * Object type: `window`; properties: `location`
+        * Object type: `document`; properties: `URL`, `lastModified`, `title`
+
+## More About the "Document" Object
+
+* The **document** object represents an HTML page - and using this object allows you to access and change what content users see/interact with on it
+
+* A document object has:
+    * Properties: i.e., the title of a page
+    * Methods: performing document tasks (like getting information from a specific element currently displayed)
+    * Events: can respond to events (like a user clicking on an element)
+
+* All major browsers implement the document object in the same way - one of a set of objects that all browsers support
+
+## How a Browser Sees a Webpage
+
+1. Retrieves page as HTML code
+2. Creates a model of a page and stores it in its memory
+3. Uses a rendering engine to display the page on-screen
+
+**NODE**: Each box below the document object is a node, and *each node is another object*
+* i.e.: elements, text within the element, and attribute
+* Each element is creates its own node
+
+
+
+
+
+
+
 Return to the [Table of Contents](https://alex-whan.github.io/reading-notes/)
