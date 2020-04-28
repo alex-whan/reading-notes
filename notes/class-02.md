@@ -4,8 +4,23 @@
 
 ### Chapter 2 - Text
 
+**Tags** known as **"markup"** provide meaning to a webpage and allow browsers to appropriately display a page's structure
+* Structural markup: elements like *headings* and *paragraphs*
+* Semantic markup: elements that provide extra information (like where to place emphasis in a sentence, indicating a quotation, etc)
 
+#### Examples of Common Structural Markup
 
+* Headings: `<h1><h2><h3><h4><h5><h6>`
+* Paragraphs: `<p>`
+* Bold text: `<b>`
+* Italic text: `<i>`
+* Superscript and Subscript: `<sup>` and `<sub>`
+
+#### Examples of Common Semantic Markup
+
+* Strong and Emphasis: `<strong>` and `<em>`
+* Quotations: `<blockquote>` and `<q>`
+* Abbreviations and Acronyms: `<abbr>`
 
 ### Chapter 10 - Introducing CSS
 
@@ -13,10 +28,21 @@
 * CSS stands for "Cascading Style Sheets"
 * CSS controls how the content of an element should appear on a page (color, font, etc)
 * Associates rules with different HTML elements
+* CSS treats each element as if it appears inside its own "box"
+* Rules are made of selectors and declarations - and different selectors allow us to target different specific elements
 
+#### Major CSS Selectors
 
+* Universal selector: applies to all elements in a document
+* Type selector: matches element names
+* Class selector: matches an element identified with the class attribute following the period (.) symbol
+* ID selector: matches an element with an "id" attribute, identified with the (#) symbol
 
+#### Specificity in CSS
 
+* Last rule: If there are multiple rules that apply to one element, the last one will take precedence
+* Specificity: The more *specific* rule will take precedence over more general ones (i.e., ID `#intro` is more specific than `<h1>`
+* Important: A `!` symbol indicates that a property is more important than other rules applied to the same element
 
 
 ## Selected notes from readings in *JavaScript & JQuery* by Jon Duckett
