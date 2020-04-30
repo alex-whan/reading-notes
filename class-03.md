@@ -57,3 +57,5 @@ There are 3 types of **lists** in HTML:
   * Faster performance
 
   ### More to follow!
+
+  Return to the [Table of Contents](https://alex-whan.github.io/reading-notes/)
