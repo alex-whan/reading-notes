@@ -14,7 +14,7 @@ This website features reading notes from throughout my Code 201 course, which wi
 - [Reading 3: HTML Lists, CSS Boxes, JS Control Flow](https://alex-whan.github.io/reading-notes/class-03.html)
 - [Reading 4: HTML Links, CSS Layout, JS Functions](https://alex-whan.github.io/reading-notes/class-04.html)
 - [Reading 5: HTML Images, CSS Color & Text](https://alex-whan.github.io/reading-notes/class-05.html)
-- [Reading 6:](https://alex-whan.github.io/reading-notes/)
+- [Reading 6: JS Object Literals; The DOM](https://alex-whan.github.io/reading-notes/class-06.html)
 - [Reading 7:](https://alex-whan.github.io/reading-notes/)
 - [Reading 8:](https://alex-whan.github.io/reading-notes/)
 - [Reading 9:](https://alex-whan.github.io/reading-notes/)
