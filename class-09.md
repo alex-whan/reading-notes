@@ -83,6 +83,8 @@
 
 #### Events & Triggering JavaScript Code
 
+* Events can make a web page feel more *interactive*, as it feels like it has *responded* to the user when occurring on an element
+
 The below steps represent **event handling**:
 
 1. Select the element nodes for the script to respond to
@@ -128,6 +130,6 @@ The below steps represent **event handling**:
           var el = document.getElementById('username');
           el.addEventListener('blur', checkUsername, false);
           ```
-          
+
 
 Return to the [Table of Contents](https://alex-whan.github.io/reading-notes/)
