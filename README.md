@@ -18,7 +18,7 @@ This website features reading notes from throughout my Code 201 course, which wi
 - [Reading 7: HTML Tables; JS Constructor Functions](https://alex-whan.github.io/reading-notes/class-07.html)
 - [Reading 8: More CSS Layout](https://alex-whan.github.io/reading-notes/class-08.html)
 - [Reading 9: Forms and Events](https://alex-whan.github.io/reading-notes/class-09.html)
-- [Reading 10:](https://alex-whan.github.io/reading-notes/)
+- [Reading 10: JS Debugging](https://alex-whan.github.io/reading-notes/class-10.html)
 - [Reading 11:](https://alex-whan.github.io/reading-notes/)
 - [Reading 12:](https://alex-whan.github.io/reading-notes/)
 - [Reading 13:](https://alex-whan.github.io/reading-notes/)
