@@ -19,7 +19,7 @@ This website features reading notes from throughout my Code 201 course, which wi
 - [Reading 8: More CSS Layout](https://alex-whan.github.io/reading-notes/class-08.html)
 - [Reading 9: Forms and Events](https://alex-whan.github.io/reading-notes/class-09.html)
 - [Reading 10: JS Debugging](https://alex-whan.github.io/reading-notes/class-10.html)
-- [Reading 11:](https://alex-whan.github.io/reading-notes/)
+- [Reading 11: Assorted Topics](https://alex-whan.github.io/reading-notes/class-11.html)
 - [Reading 12:](https://alex-whan.github.io/reading-notes/)
 - [Reading 13:](https://alex-whan.github.io/reading-notes/)
 - [Reading 14:](https://alex-whan.github.io/reading-notes/)
