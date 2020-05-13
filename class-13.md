@@ -22,5 +22,11 @@
 * Browser games can use local storage to save games in progress - so they don't reset when refreshing the browser or closing the tab
   - However, if retrieving anything but a string, the data must be coerced into the correct type to be read
 
+#### Key Limitations of HTML5 Web Storage
+
+* Cannot request more storage
+* Storage is limited to 5 MB (otherwise you'll get the `QUOTA_EXCEED_ERR`)
+* Default in all browsers is 5 MB
+
 Return to the [Table of Contents](https://alex-whan.github.io/reading-notes/)
 
