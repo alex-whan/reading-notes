@@ -20,8 +20,8 @@ This website features reading notes from throughout my Code 201 course, which wi
 - [Reading 9: Forms and Events](https://alex-whan.github.io/reading-notes/class-09.html)
 - [Reading 10: JS Debugging](https://alex-whan.github.io/reading-notes/class-10.html)
 - [Reading 11: Assorted Topics](https://alex-whan.github.io/reading-notes/class-11.html)
-- [Reading 12: Docs for the HTML \<canvas\> Element & Chart.js](https://alex-whan.github.io/reading-notes/)
-- [Reading 13:](https://alex-whan.github.io/reading-notes/)
+- [Reading 12: Docs for the HTML \<canvas\> Element & Chart.js](https://alex-whan.github.io/reading-notes/class-12.html)
+- [Reading 13: Local Storage](https://alex-whan.github.io/reading-notes/class-13.html)
 - [Reading 14:](https://alex-whan.github.io/reading-notes/)
 - [Reading 15:](https://alex-whan.github.io/reading-notes/)
 
