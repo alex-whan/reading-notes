@@ -33,7 +33,7 @@ This website features reading notes from throughout my Code 201 and Code 301 cou
 
 ### Table of Contents
 
-- [Reading 1: SMACSS and Responsive Web Design](https://alex-whan.github.io/reading-notes/class-02.html)
+- [Reading 1: SMACSS and Responsive Web Design](https://alex-whan.github.io/reading-notes/code-301/class-01.html)
 - [Reading 2:]()
 - [Reading 3:]()
 - [Reading 4:]()
