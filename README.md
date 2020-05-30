@@ -22,7 +22,7 @@ This website features reading notes from throughout my Code 201 course, which wi
 - [Reading 11: Assorted Topics](https://alex-whan.github.io/reading-notes/class-11.html)
 - [Reading 12: Docs for the HTML \<canvas\> Element & Chart.js](https://alex-whan.github.io/reading-notes/class-12.html)
 - [Reading 13: Local Storage](https://alex-whan.github.io/reading-notes/class-13.html)
-- [Reading 14: CSS Transforms, Transitions, and Animations](https://alex-whan.github.io/reading-notes/class-14.md)
+- [Reading 14: CSS Transforms, Transitions, and Animations](https://alex-whan.github.io/reading-notes/class-14.html)
 - [Reading 15: What Google Learned About Teams](https://alex-whan.github.io/reading-notes/class-15.md)
 
 
