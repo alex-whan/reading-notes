@@ -101,6 +101,20 @@
 
 ### Don't Overthink It Grids
 
+* Vast majority of websites use a **grid** system of some sort
+  - Simple grid: "Main content area" floated to the left and a "sidebar" floated to the right
+
+* Basic grid: 
+  - Main content area column that's 2/3 the width
+  - Sidebar column that's 1/3 the width
+  - Clear parent element and give it "" content
+  - Add gutters 
+  - Break down content into modules if possible
+
 ### CSS Floats Explained by Riding an Escalator
 
+* More notes to follow.
+
 ### SMACSS Official Documentation
+
+* More notes to follow.
