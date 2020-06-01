@@ -86,7 +86,18 @@
 
 ### All About Floats
 
+* **Float**: CSS positioning property that essentially allows for "text wrap" - content flowing around the floated element
+  - Remain a part of the flow of the page (unlike absolute positioning)
 
+* Floats can be used for page/web layouts
+  - HOWEVER: Generally we use **Flexbox** and **Grid** these days as they are more powerful tools overall
+
+* **Clearing** the float (`clear` property) tells an element to stay below a floated element (like a block) rather than floating up next to it
+
+* Multiple methods for clearing floats:
+  - Empty Div Method
+  - Overflow Method
+  - Easy Clearing Method
 
 ### Don't Overthink It Grids
 
