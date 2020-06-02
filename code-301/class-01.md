@@ -118,3 +118,5 @@
 ### SMACSS Official Documentation
 
 * More notes to follow.
+
+Return to the [Table of Contents](https://alex-whan.github.io/reading-notes/)
