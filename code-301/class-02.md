@@ -40,6 +40,43 @@
 2. Common tasks written in less code
 3. Cross-browser compatibility
 
-#### Order of Execution and Execution Contexts
+#### jQuery Scripts
+
+* **jQuery Scripts** should ideally be placed before the closing `</body>` tag of your HTML:
+  - Script doesn't block other things from downloading
+  - DOM has already loaded by the time script executes
+
+#### Getting Element Content
+
+* Use jQuery methods to retrieve and update the content of elements:
+  1. `.html()` - only retrieves HTML within the first element in matched set, along with its descendants (text + markup)
+  2. `.text()` - only retrieves the *content* a selection (although for every element in selection, along with any descendants)
+
+#### Updating Elements
+
+* Four methods that update contents of **all** elements in a jQuery selection:
+  1. `.html()`
+  2. `.text()`
+  3. `.replaceWith()`
+  4. `.remove()`
+
+#### Inserting Elements
+
+* Inserting new elements with jQuery involves two steps:
+  1. Create the new elements in a jQuery object
+  2. Use a method to insert the content into the page at different locations:
+    - `.before()` - before selected elements
+    - `.after()` - after selected elements
+    - `.prepend()` - inside selected elements, after opening tag
+    - `.append()` - inside selected elements, before closing tag
+
+#### Getting and Setting Attribute Values
+
+* You can create attributes, or access/update their contents, using these methods:
+  1. `.attr()` - gets or sets a specified attribute and value
+  2. `.removeAttr()` - removes a specified attribute and value
+  3. `.addClass()` - adds a new value to existing value of class attribute (doesn't overwrite existing values)
+  4. `.removeClass()` - removes a value from class attribute (leaves other classes intact)
+
 
 Return to the [Table of Contents](https://alex-whan.github.io/reading-notes/)
