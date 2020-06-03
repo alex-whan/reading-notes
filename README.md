@@ -35,7 +35,7 @@ This website features reading notes from throughout my Code 201 and Code 301 cou
 
 - [Reading 1: SMACSS and Responsive Web Design](https://alex-whan.github.io/reading-notes/code-301/class-01.html)
 - [Reading 2: jQuery, Events, and The DOM](https://alex-whan.github.io/reading-notes/code-301/class-02.html)
-- [Reading 3:]()
+- [Reading 3: Flexbox and Templating](https://alex-whan.github.io/reading-notes/code-301/class-03.html)
 - [Reading 4:]()
 - [Reading 5:]()
 - [Reading 6:]()
