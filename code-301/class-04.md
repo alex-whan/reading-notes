@@ -58,6 +58,14 @@
 
 ### Regular Expressions (Regex)
 
+**Regular Expressions**, known as **Regex** or **Regexp**, are tools used for extracting information from any text
+  - Basically: *A sequence of characters the define a search pattern*
+  - Search for one or more matches of a specific search pattern (i.e. a specific sequence of characters)
 
+* Uses include:
+  - Validation
+  - Parsing/replacing strings (think 'find and replace')
+  - Passing through translating data to other formats
+  - Web scraping
 
 Return to the [Table of Contents](https://alex-whan.github.io/reading-notes/)
