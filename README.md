@@ -37,7 +37,7 @@ This website features reading notes from throughout my Code 201 and Code 301 cou
 - [Reading 2: jQuery, Events, and The DOM](https://alex-whan.github.io/reading-notes/code-301/class-02.html)
 - [Reading 3: Flexbox and Templating](https://alex-whan.github.io/reading-notes/code-301/class-03.html)
 - [Reading 4: Responsive Web Design and Regular Expressions](https://alex-whan.github.io/reading-notes/code-301/class-04.html)
-- [Reading 5:]()
+- [Reading 5: Heroku Deployment](https://alex-whan.github.io/reading-notes/code-301/class-05.html)
 - [Reading 6:]()
 - [Reading 7:]()
 - [Reading 8:]()
