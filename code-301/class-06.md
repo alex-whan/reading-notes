@@ -1,8 +1,8 @@
-# Reading 5: Heroku Deployment
+# Reading 6: Node, Express, and APIs
 
-### HEROKU
+### NODE.JS
 
-#### What Is Heroku?
+#### What Is Node.js?
 
 
 
