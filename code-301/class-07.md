@@ -1,4 +1,4 @@
-# Reading 6: APIs Continued
+# Reading 7: APIs Continued
 
 **API** = **Application Programming Interface**
 
