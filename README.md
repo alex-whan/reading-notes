@@ -41,7 +41,7 @@ This website features reading notes from throughout my Code 201 and Code 301 cou
 - [Reading 6: Node, Express, and APIs](https://alex-whan.github.io/reading-notes/code-301/class-06.html)
 - [Reading 7: APIs Continued](https://alex-whan.github.io/reading-notes/code-301/class-07.html)
 - [Reading 8: SQL](https://alex-whan.github.io/reading-notes/code-301/class-08.html)
-- [Reading 9:]()
+- [Reading 9: Refactoring & Functional Programming](https://alex-whan.github.io/reading-notes/code-301/class-09.html)
 - [Reading 10:]()
 - [Reading 11:]()
 - [Reading 12:]()
