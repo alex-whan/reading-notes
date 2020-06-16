@@ -44,7 +44,7 @@ This website features reading notes from throughout my Code 201 and Code 301 cou
 - [Reading 9: Refactoring & Functional Programming](https://alex-whan.github.io/reading-notes/code-301/class-09.html)
 - [Reading 10: The Call Stack and Debugging](https://alex-whan.github.io/reading-notes/code-301/class-10.html)
 - [Reading 11: EJS](https://alex-whan.github.io/reading-notes/code-301/class-11.html)
-- [Reading 12:]()
+- [Reading 12: Components & EJS Partials](https://alex-whan.github.io/reading-notes/code-301/class-11.html)
 - [Reading 13:]()
 - [Reading 14:]()
 - [Reading 15:]()
