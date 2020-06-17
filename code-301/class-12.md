@@ -34,6 +34,4 @@ Real-life example: You have the same nav bar and footer in both the home and pos
     </div>
 
 
-  
-
 Return to the [Table of Contents](https://alex-whan.github.io/reading-notes/)
