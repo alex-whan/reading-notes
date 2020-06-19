@@ -47,7 +47,7 @@ This website features reading notes from throughout my Code 201 and Code 301 cou
 - [Reading 12: Components & EJS Partials](https://alex-whan.github.io/reading-notes/code-301/class-12.html)
 - [Reading 13: Update/Delete](https://alex-whan.github.io/reading-notes/code-301/class-13.html)
 - [Reading 14: Database Normalization](https://alex-whan.github.io/reading-notes/code-301/class-14.html)
-- [Reading 15:]()
+- [Reading 15: Diversity and Inclusion](https://alex-whan.github.io/reading-notes/code-301/class-15.html)
 
 
 Check out my [GitHub portfolio](https://github.com/alex-whan) or hop directly to my [Reading Notes!](https://alex-whan.github.io/reading-notes/)
