@@ -55,11 +55,8 @@ This website features reading notes from throughout my Code 201, Code 301 and Co
 ### Table of Contents
 
 - [Prework 1: Solving Problems](https://alex-whan.github.io/reading-notes/code-401/prework-01.html)
-
 - [Prework 2: Act Like You Make $1000/hr](https://alex-whan.github.io/reading-notes/code-401/prework-02.html)
-
 - [Prework 3: How to Think Like a Programmer](https://alex-whan.github.io/reading-notes/code-401/prework-03.html)
-
 - [Prework 4: The 5 Whys and Hows](https://alex-whan.github.io/reading-notes/code-401/prework-04.html)
 
 
