@@ -18,35 +18,35 @@
 
 - `functional programming`: [Source]().
 
-- `pure function`: A JavaScript file featuring a function or set of functions you want to use in your application. [Source]().
+- `pure function`: A function that always returns the same outputs given the same inputs, with no side effects (such as any work not related to evaluating the actual inputs). [Source](https://www.freecodecamp.org/news/what-is-a-pure-function-in-javascript-acb887375dfe/).
 
 - `higher-order function`: [Source]().
 
 - `immutable state`: [Source]().
 
-- `object`: [Source]().
+- `object`: A representation of a real-life item or person that has properties and methods representing its features and abilities. A dynamic "bag" of properties in JavaScript that in turn is linked to a protype object and its successive chain of prototypes. Can have [Source](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain).
 
 - `object-oriented programming (OOP)`: [Source]().
 
-- `class`: [Source]().
+- `class`: Special functions that are templates for creating objects in JavaScript. Built on prototypes, and encapsulate data with related code needed to work on that data. [Source](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes).
 
-- `prototype`: [Source]().
+- `prototype`: A special, private property of all JavaScript functions that rests at the top of a inheritance chain, which links to a separate object called a "prototype". This property can be accessed to add new properties or methods to object constructors. [Source](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain).
 
-- `super`: [Source]().
+- `super`: Syntax used to call a parent class constructor when creating an object derived from a parent class. Super syntax explicitly includes the parent constructor properties and methods in the new object constructor. [Source](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes/constructor).
 
-- `inheritance`: [Source](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain).
+- `inheritance`: All JavaScript objects inherit properties and methods from a prototype, which passes them down a prototype chain. [Source](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain).
 
-- `constructor`: [Source]().
+- `constructor`: A special method of class used to create and initialize and object instance of that class. Allows for custom initialization of an object.[Source]https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes/constructor).
 
-- `instance`: [Source]().
+- `instance`: A new instantiation of an object, called via a function by using the operator `new`. [Source](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain).
 
-- `context`: [Source]().
+- `context`: [Source](https://towardsdatascience.com/javascript-context-this-keyword-9a78a19d5786).
 
-- `this`: [Source](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this).
+- `this`: A contextual "this" that references the execution context of a function or variable - global context (the global object), function context (inside of a function), class context (inside of a class). Can be a reference to any value in strict mode. [Source](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this).
 
-- `Test Driven Development (TDD)`: [Source]().
+- `Test Driven Development (TDD)`: A technique that essentially checks to see if your code functions as expected with the purpose of catching programming errors. Involves defining expected output for production code, and testing to see if the two approaches match. [Source](http://www.letscodejavascript.com/).
 
-- `Jest`: [Source]().
+- `Jest`: A simple JavaScript testing framework designed to work with Babel, Typescript, Node, React, Angular, Vue, and other libraries. Creates, runs, and structures tests. [Source](https://jestjs.io/en/).
 
 - `Continuous Integration (CI)`: [Source]().
 
