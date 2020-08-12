@@ -57,5 +57,6 @@ This website features reading notes from throughout my Code 201, Code 301 and Co
 - [Prework 3: How to Think Like a Programmer](https://alex-whan.github.io/reading-notes/code-401/prework-03.html)
 - [Reading 1: Node Ecosystem, TDD, CI/CD](https://alex-whan.github.io/reading-notes/code-401/class-1.html)
 - [Reading 2: Classes, Inheritance, Functional Programming](https://alex-whan.github.io/reading-notes/code-401/class-2.html)
+- [Reading 3: Data Modeling & NoSQL Databases](https://alex-whan.github.io/reading-notes/code-401/class-3.html)
 
 Check out my [GitHub portfolio](https://github.com/alex-whan) or hop directly to my [Reading Notes!](https://alex-whan.github.io/reading-notes/)
