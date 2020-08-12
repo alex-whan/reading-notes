@@ -4,7 +4,7 @@
 
 Hello there! My name is Alex, and I'm a Code Fellows and Software Developer in the Seattle area. A born-and-raised Washingtonian, I've long been interested in learning to code thanks to the thriving technology industry in my beautiful hometown of Seattle. Pacific Northwest is best, as they say.
 
-I’ve been fascinated by coding for a long time in large part due to my love of languages and linguistics, and I love how technology has the ability to be a universal language no matter where you are in the world. 
+I’ve been fascinated by coding for a long time in large part due to my love of languages and linguistics, and I love how technology has the ability to be a universal language no matter where you are in the world.
 
 This website features reading notes from throughout my Code 201, Code 301 and Code 401 courses, which will help to document my learning journey as a software developer. Please find the links to each reading and topic below, organized by course.
 
@@ -28,7 +28,6 @@ This website features reading notes from throughout my Code 201, Code 301 and Co
 - [Reading 14: CSS Transforms, Transitions, and Animations](https://alex-whan.github.io/reading-notes/code-201/class-14.html)
 - [Reading 15: What Google Learned About Teams](https://alex-whan.github.io/reading-notes/code-201/class-15.html)
 
-
 ## Code 301 - Intermediate Software Development
 
 ### Table of Contents
@@ -49,15 +48,14 @@ This website features reading notes from throughout my Code 201, Code 301 and Co
 - [Reading 14: Database Normalization](https://alex-whan.github.io/reading-notes/code-301/class-14.html)
 - [Reading 15: Diversity and Inclusion](https://alex-whan.github.io/reading-notes/code-301/class-15.html)
 
-
 ## Code 401 - Advanced Software Development in Full-Stack JavaScript
 
 ### Table of Contents
 
 - [Prework 1: Solving Problems](https://alex-whan.github.io/reading-notes/code-401/prework-01.html)
-- [Prework 2: Act Like You Make $1000/hr](https://alex-whan.github.io/reading-notes/code-401/prework-02.html)
+- [Prework 2: Act Like You Make \$1000/hr](https://alex-whan.github.io/reading-notes/code-401/prework-02.html)
 - [Prework 3: How to Think Like a Programmer](https://alex-whan.github.io/reading-notes/code-401/prework-03.html)
-- [Prework 4: The 5 Whys and Hows]()
-
+- [Reading 1: Node Ecosystem, TDD, CI/CD](https://alex-whan.github.io/reading-notes/code-401/class-1.html)
+- [Reading 2: Classes, Inheritance, Functional Programming](https://alex-whan.github.io/reading-notes/code-401/class-2.html)
 
 Check out my [GitHub portfolio](https://github.com/alex-whan) or hop directly to my [Reading Notes!](https://alex-whan.github.io/reading-notes/)
