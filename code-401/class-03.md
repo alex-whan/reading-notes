@@ -4,7 +4,13 @@
 
 **1. Why would a developer choose to make data models?**
 
+Models are essentially constructors that use schema to create instances of documents, much like you would with a record in a relational database. A developer might choose to make data models in order to regulate the "shape" of data being stored in the database, or to take large amounts of disparate data and convert it into standardized instances of documents.
+
 **2. What purpose do CRUD operations serve?**
+
+"CRUD" stands for "Create, Read, Update, and Delete" - the four basic types of functionality for peristent storage. Create, Read, Update, and Delete are standard database commands that are the basis of this paradigm. If an application or model is able to perform all of these actions, it is considered "full CRUD" - meaning that, essentially, CRUD operations serve as the basis for a "complete" application.
+
+CRUD operations allow interactions with persistent storage - Creating/storing data (Create), accessing data (Read), updating data with new information (Update), and deleting data (Delete). Essentially, the full cycle of how a user might expect to interact with data in a fully-fledged application.
 
 **3. What kind of database is Postgres? What kind of database is MongoDB?**
 
@@ -16,11 +22,21 @@ Relational (SQL) databases are based off of tables, and represent data as tables
 
 Non-Relational (NoSQL) databases are based off of documents, key-value pairs, graphs, wide-column stores, or other irregular data. The database consists of two or more files in different sites, and may be stored across multiple computers or networks.
 
-NoSQL databases are a collection of data (can be in the forms previously listed) that do not have a standard schema definition. They allow for the storage and manipulation of unstructured, semistructured, or irregularly-structured data.
+NoSQL databases are a collection of data (can be in the forms previously listed) that do not have a standard schema definition. They allow for the storage and manipulation of unstructured, semistructured, or irregularly-structured data. Schemas are optional.
 
 **4. What is Mongoose and why do we need it?**
 
+Mongoose is an Object Data Modeling (ODM) library designed for use with MongoDB and Node. It helps make manipulating data via MongoDB much easier, as it manages the relationships between the data, constructs/validates schema, and translates objects seamlessly between MongoDB and actual code to make them easier to understand. Ultimately, Mongoose makes working with MongoDB much simpler and familiar due to its numerous features and utilities for modeling data and data relationships.
+
 **5. Define three related pieces of data in a possible application. An example for a store application might be Product, Category and Department. Describe the constraints and rules on each piece of data and how you would relate these pieces to each other. For example, each Product has a Category and belongs in a Department.**
+
+In a personal library application with a persistent database, there could be the following pieces of related data:
+
+- Books
+- Authors
+- User Collection
+
+Each Book has an Author. Each Book can also be saved by the user in a Collection of their choosing - perhaps organized by genre or category. A Book may be saved into multiple collections (one-to-many relationship). Authors are not related directly to the Collection a Book is stored in.
 
 ## Vocabulary Terms
 
@@ -42,18 +58,22 @@ NoSQL databases are a collection of data (can be in the forms previously listed)
 
 - `MongoDB`: A cross-platform, document-oriented, NoSQL database program (non-relational/distributed database). Utilizes documents with a JSON-style format. Schemas are optional. [Source](https://en.wikipedia.org/wiki/MongoDB).
 
-- `Mongoose`: [Source]().
+- `Mongoose`: An Object Data Modeling (ODM) library built for MongoDB and Node.js. Manages relationships between data, validates schema, and translates objects between code and their format in MongoDB. [Source](https://www.freecodecamp.org/news/introduction-to-mongoose-for-mongodb-d2a7aa593c57/).
 
 - `record`: An object representing a group of data saved in a database table. Displays a set of fields related to the object's properties and values (such as an employee ID, name, position, hire date, etc.). [Source](https://teachcomputerscience.com/database-record/).
 
 - `document`: A JSON-like model for storing irregular data in a database. Map to objects in code for a more natural/intuitive flow. [Source](https://www.mongodb.com/document-databases).
 
-- `Object Relation Mapping (ORM)`: [Source]().
+- `Object Relation Mapping (ORM)`: A layer laid over the top of Relational Databases that helps to make data more readable in a non-SQL format. [Source](https://www.freecodecamp.org/news/introduction-to-mongoose-for-mongodb-d2a7aa593c57/).
 
 ### Other Sources
 
 - [The Geek Stuff - SQL vs NoSQL](https://www.thegeekstuff.com/2014/01/sql-vs-nosql-db/?utm_source=tuicool)
 
 - [Database Record](https://teachcomputerscience.com/database-record/)
+
+- [FreeCodeCamp - Intro to Mongoose for MongoDB](https://www.freecodecamp.org/news/introduction-to-mongoose-for-mongodb-d2a7aa593c57/)
+
+- [What is Crud?](https://www.codecademy.com/articles/what-is-crud)
 
 Return to the [Table of Contents](https://alex-whan.github.io/reading-notes/)
