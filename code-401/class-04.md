@@ -30,11 +30,26 @@ Mongoose is an Object Data Modeling (ODM) library designed for use with MongoDB 
 
 **5. Describe how NoSQL Databases scale horizontally.**
 
+Whereas relational/SQL databases scale _vertically_ by adding more memory or processing power to a server, distributed/NoSQL databases scale _horizontally_ by adding more machines and servers.
+
+In horizontal scaling, datasets are divided up and shared across multiple servers, known as _shards_. These shards each represent an individual database. For example, instead of needing one single, giant, 2 TB server when scaling vertically, you could use 200 separate 10 GB servers when scaling horizontally.
+
+**To summarize:**
+
+- Vertical scaling: Increases _power/memory_ of machines
+- Horizontal scaling: Increases _number_ of machines
+
 **6. Give one strong argument for and against NoSQL databases.**
 
-**7. Define three related pieces of data in a possible application. An example for a store application might be Product, Category and Department. Describe the constraints and rules on each piece of data and how you would relate these pieces to each other. For example, each Product has a Category and belongs in a Department.**
+- **For:**
 
-**8. Name 3 cloud-based NoSQL Databases.**
+NoSQL databases, thanks to their distributed/horizontal nature, are much cheaper to run when compared to relational/vertically-scaled databases. Their distributed load allows them to reduce the load on each individual server, leading to overall better performance and fewer chances of a single point of failure. Overall, NoSQL databases are highly _elastic_, and can handle a huge variety of changing workloads dynamically. Big-time cloud databases are based off of this concept.
+
+- **Against:**
+
+Database joins are difficult in NoSQL databases, as this operation requires communication across multiple servers. In this same vein, it's difficult to determine which operations will be split up across which servers, as some operations or features may in fact need more memory, space, and/or power than a single shard can handle. Consistency is tough with NoSQL databases.
+
+**7. Define three related pieces of data in a possible application. An example for a store application might be Product, Category and Department. Describe the constraints and rules on each piece of data and how you would relate these pieces to each other. For example, each Product has a Category and belongs in a Department.**
 
 In a personal library application with a persistent database, there could be the following pieces of related data:
 
@@ -43,6 +58,12 @@ In a personal library application with a persistent database, there could be the
 - User Collection
 
 Each Book has an Author. Each Book can also be saved by the user in a Collection of their choosing - perhaps organized by genre or category. A Book may be saved into multiple collections (one-to-many relationship). Authors are not related directly to the Collection a Book is stored in.
+
+**8. Name 3 cloud-based NoSQL Databases.**
+
+- Azure Cosmos DB
+- MongoDB
+- Oracle
 
 ## Vocabulary Terms
 
@@ -81,5 +102,7 @@ Each Book has an Author. Each Book can also be saved by the user in a Collection
 - [What is Crud?](https://www.codecademy.com/articles/what-is-crud)
 
 - [Testing Node.js + Mongoose with an in-memory database](https://dev.to/paulasantamaria/testing-node-js-mongoose-with-an-in-memory-database-32np)
+
+- [Database Scaling: Horizontal and Vertical Scaling](https://hackernoon.com/database-scaling-horizontal-and-vertical-scaling-85edd2fd9944)
 
 Return to the [Table of Contents](https://alex-whan.github.io/reading-notes/)
