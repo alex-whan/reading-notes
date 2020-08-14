@@ -58,5 +58,7 @@ This website features reading notes from throughout my Code 201, Code 301 and Co
 - [Reading 1: Node Ecosystem, TDD, CI/CD](https://alex-whan.github.io/reading-notes/code-401/class-01.html)
 - [Reading 2: Classes, Inheritance, Functional Programming](https://alex-whan.github.io/reading-notes/code-401/class-02.html)
 - [Reading 3: Data Modeling & NoSQL Databases](https://alex-whan.github.io/reading-notes/code-401/class-03.html)
+- [Reading 4: Advanced Mongoose/Mongo](https://alex-whan.github.io/reading-notes/code-401/class-04.html)
+- [Reading 5: Linked Lists](https://alex-whan.github.io/reading-notes/code-401/class-05.html)
 
 Check out my [GitHub portfolio](https://github.com/alex-whan) or hop directly to my [Reading Notes!](https://alex-whan.github.io/reading-notes/)
