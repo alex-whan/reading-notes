@@ -2,11 +2,11 @@
 
 ### About This Site
 
-Hello there! My name is Alex, and I'm a Code Fellows and Software Developer in the Seattle area. A born-and-raised Washingtonian, I've long been interested in learning to code thanks to the thriving technology industry in my beautiful hometown of Seattle. Pacific Northwest is best, as they say.
+Hello there! My name is Alex, and I'm a CSoftware Developer in the Seattle area. A born-and-raised Washingtonian, I've long been interested in learning to code thanks to the thriving technology industry in my beautiful hometown of Seattle.
 
 I’ve been fascinated by coding for a long time in large part due to my love of languages and linguistics, and I love how technology has the ability to be a universal language no matter where you are in the world.
 
-This website features reading notes from throughout my Code 201, Code 301 and Code 401 courses, which will help to document my learning journey as a software developer. Please find the links to each reading and topic below, organized by course.
+This website features reading notes from throughout my Code 201, Code 301, and Code 401 courses, which will help to document my learning journey as a software developer. Please find the links to each reading and topic below, organized by course.
 
 ## Code 201 - Foundations of Software Development
 
@@ -60,5 +60,6 @@ This website features reading notes from throughout my Code 201, Code 301 and Co
 - [Reading 3: Data Modeling & NoSQL Databases](https://alex-whan.github.io/reading-notes/code-401/class-03.html)
 - [Reading 4: Advanced Mongoose/Mongo](https://alex-whan.github.io/reading-notes/code-401/class-04.html)
 - [Reading 5: Linked Lists](https://alex-whan.github.io/reading-notes/code-401/class-05.html)
+- [Reading 6: HTTP and REST](https://alex-whan.github.io/reading-notes/code-401/class-06.html)
 
 Check out my [GitHub portfolio](https://github.com/alex-whan) or hop directly to my [Reading Notes!](https://alex-whan.github.io/reading-notes/)
