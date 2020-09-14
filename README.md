@@ -74,5 +74,6 @@ This website features reading notes from throughout my Code 201, Code 301, and C
 - [Reading 17: TCP Servers](https://alex-whan.github.io/reading-notes/code-401/class-17.html)
 - [Reading 18: Socket.io](https://alex-whan.github.io/reading-notes/code-401/class-18.html)
 - [Reading 19: Message Queues](https://alex-whan.github.io/reading-notes/code-401/class-19.html)
+- [Reading 26: Component-Based UI](https://alex-whan.github.io/reading-notes/code-401/class-26.html)
 
 Check out my [GitHub portfolio](https://github.com/alex-whan) or hop directly to my [Reading Notes!](https://alex-whan.github.io/reading-notes/)
