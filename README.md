@@ -2,7 +2,7 @@
 
 ### About This Site
 
-Hello there! My name is Alex, and I'm a CSoftware Developer in the Seattle area. A born-and-raised Washingtonian, I've long been interested in learning to code thanks to the thriving technology industry in my beautiful hometown of Seattle.
+Hello there! My name is Alex, and I'm a Software Developer in the Seattle area. A born-and-raised Washingtonian, I've long been interested in learning to code thanks to the thriving technology industry in my beautiful hometown of Seattle.
 
 I’ve been fascinated by coding for a long time in large part due to my love of languages and linguistics, and I love how technology has the ability to be a universal language no matter where you are in the world.
 
@@ -75,5 +75,6 @@ This website features reading notes from throughout my Code 201, Code 301, and C
 - [Reading 18: Socket.io](https://alex-whan.github.io/reading-notes/code-401/class-18.html)
 - [Reading 19: Message Queues](https://alex-whan.github.io/reading-notes/code-401/class-19.html)
 - [Reading 26: Component-Based UI](https://alex-whan.github.io/reading-notes/code-401/class-26.html)
+- [Reading 29: Hash Tables](https://alex-whan.github.io/reading-notes/code-401/class-29.html)
 
 Check out my [GitHub portfolio](https://github.com/alex-whan) or hop directly to my [Reading Notes!](https://alex-whan.github.io/reading-notes/)
